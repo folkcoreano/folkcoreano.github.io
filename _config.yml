@@ -1,7 +1,4 @@
 title: folkcoreano
-author:
-  name: yonas
-  email: folkcoreano@outlook.com
 description: hi gays
 
 theme: minima
@@ -15,8 +12,9 @@ minima:
     - {plataform: github, user_url: "https://github.com/folkcoreano"}
     - {plataform: twitter, user_url: "https://twitter.com/folkcoreano"}
     - {plataform: instagram, user_url: "https://instagram.com/folkcoreano"}
-  skin: dark
+
 header_pages:
   - about.md
+
 disqus:
   shortname: folkcoreano
