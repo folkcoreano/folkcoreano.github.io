@@ -1,3 +1,7 @@
-# WHAT
+---
+layout: page
+title: sobre mim
+permalink: /about/
+---
 
-isso é sobre o que mesmo?
+alguma hora alguma coisa vai estar aqui, confia
