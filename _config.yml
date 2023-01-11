@@ -1,9 +1,15 @@
-theme: minima
 title: folkcoreano
-description: hi gays
 author:
   name: yonas
-  email: "folkcoreano@outlook.com"
+  email: folkcoreano@outlook.com
+description: hi gays
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 minima:
   social_links:
     - {plataform: github, user_url: "https://github.com/folkcoreano"}
