@@ -1,3 +1,5 @@
 theme: minima
 title: folkcoreano
 description: hi gays
+minima:
+  skin: dark
